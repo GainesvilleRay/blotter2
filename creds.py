@@ -1,0 +1,5 @@
+AppToken = '2275Id7FK0AHV20zl4tJ5iMix'
+SecretToken = 'jnNazafVbnF5nGdY2x4BuvqIcbV7g9d9nxiE'
+devsite = 'https://data.cityofgainesville.org/profile/edit/developer_settings'
+user = 'doug.ray@gvillesun.com'
+password = '2700SW13th'
